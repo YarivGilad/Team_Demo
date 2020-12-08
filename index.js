@@ -1,3 +1,4 @@
+
 const log = require('@ajar/marker')
 
 // hello one
@@ -5,3 +6,6 @@ const log = require('@ajar/marker')
 function sayHello(){
     log.magenta('hello sgalgalit')
 }
+
+const yariv = "sup my man???"
+
