@@ -3,8 +3,8 @@ const log = require('@ajar/marker')
 
 // hello one
 
-function sayHello(){
-    log.magenta('hello sgalgalit')
+function saySomething(msg='hello'){
+    log.magenta(msg+' sgalgalit');
 }
 
 const yariv = "sup my man???"
